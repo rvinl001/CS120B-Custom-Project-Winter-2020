@@ -1,5 +1,5 @@
 /* Author : Rizelle Vinluan
- * Description: Run! project for CS120B. 
+ * Description: Dodge! project for CS120B. 
  */ 
 
 #include <avr/io.h>
